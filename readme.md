@@ -13,7 +13,7 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 * ## Link for netlify:
-    [Product Design](https://product-design-proj.netlify.app/)
+    [Starbucks landing page](https://starbucks-landing-page-01.netlify.app/)
 
 
  * ## Overview
